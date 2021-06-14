@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "i am learning nodejs",
+      "author": "kunal",
+      "details": "nodejs",
+      "id": 2
+    },
+    {
+      "title": "What is Angular? - Angular",
+      "author": "kunal",
+      "details": "Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "author": "keethi",
+      "details": "Build encapsulated components that manage their own state, then compose them to make complex UIs.",
+      "id": 4
+    },
+    {
+      "title": "gayatri",
+      "author": "shivabodh",
+      "details": "jaaaaaaaaaaaaakakkkkkkkkkkkk",
+      "id": 8
+    }
+  ]
+}
